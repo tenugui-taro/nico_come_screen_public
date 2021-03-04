@@ -2,9 +2,15 @@
 node_modules
 /dist
 
+
+/src/configs/*
 /tests/e2e/videos/
 /tests/e2e/screenshots/
 
+# firebase files
+.firebase/
+.firebaserc
+.firebase.json
 
 # local env files
 .env.local
